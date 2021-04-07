@@ -1,0 +1,3 @@
+build*
+external/atmel-start/generated*
+external/atmel-start/*.atzip
